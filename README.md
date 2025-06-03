@@ -171,3 +171,7 @@ VS Code Flutter Extension
 
 Built with ❤️ to empower your fitness journey—track smarter, lift harder, live stronger.
 
+![overloadhomenew](https://github.com/user-attachments/assets/4539d769-9b9f-4ee8-92c3-751fcba38925)
+![overloadfood](https://github.com/user-attachments/assets/7596aa53-b6ae-40a7-b6b1-0e270b865519)
+![overloadexercise](https://github.com/user-attachments/assets/7c67f6bd-eab0-4c8b-963d-36dcc090d796)
+![strategy](https://github.com/user-attachments/assets/e360952b-1d36-47ab-9e64-4b7f16614613)
